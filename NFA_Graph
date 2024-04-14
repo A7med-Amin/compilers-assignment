@@ -1,4 +1,5 @@
 digraph {
+	graph [rankdir=LR]
 	S1 [label=S1 color=black shape=circle]
 	S2 [label=S2 color=black shape=circle]
 	S3 [label=S3 color=black shape=circle]
