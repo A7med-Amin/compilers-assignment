@@ -1,0 +1,6 @@
+digraph {
+	SS0 [label=SS0 color=green shape=doublecircle]
+	SS1 [label=SS1 color=black shape=doublecircle]
+	SS0 -> SS0 [label=c]
+	SS1 -> SS0 [label=b]
+}
